@@ -14,6 +14,7 @@
 }
 
 .header__nav {
+  flex-basis: 20%;
   margin-left: auto;
   text-align: center;
 }
@@ -26,5 +27,16 @@
 }
 
 .header__list-item {
-  margin-left: 50px;
+  margin-left: 5%;
+}
+
+.header__list-button {
+  color: white;
+  font-size: 105%;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.header__list-button:hover {
+  opacity: 0.5;
 }
