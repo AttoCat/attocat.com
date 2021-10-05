@@ -10,7 +10,7 @@
   display: flex;
   justify-content: space-between;
   padding-left: 15%;
-  padding-right: 15%;
+  padding-right: 20%;
 }
 
 .header__nav {
@@ -27,17 +27,33 @@
 }
 
 .header__list-item {
-  margin-left: 5%;
+  margin-left: 6%;
 }
 
-.header__list-button {
+.header__list-link {
   color: white;
   font-size: 105%;
   text-decoration: none;
   transition: 0.2s;
-  white-space: nowrap;
 }
 
-.header__list-button:hover {
+.header__list-link:hover {
   opacity: 0.5;
+}
+
+.main {
+  margin-top: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 60%;
+}
+
+.profile {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile__my-info {
+  display: flex;
+  list-style: none;
 }
