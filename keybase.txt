@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/attocat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://attocat.com
+  * I am attocat (https://keybase.io/attocat) on keybase.
+  * I have a public key with fingerprint F361 B1A8 0421 37C9 05DB  3BBF 8A45 D07C DC38 5CAB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012090913fcfd78bda7ca28e02e858db385b75267837b592f974832580877a60d4250a",
+      "fingerprint": "f361b1a8042137c905db3bbf8a45d07cdc385cab",
+      "host": "keybase.io",
+      "key_id": "8a45d07cdc385cab",
+      "kid": "0116c6c1134975192ac3ee73cebe81aace48c259020147284d29acaf581a282a95750a",
+      "uid": "307a508f71fae51d9e406e78fc384419",
+      "username": "attocat"
+    },
+    "service": {
+      "hostname": "attocat.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1667640611,
+  "expire_in": 157680000,
+  "prev": "9b5f98f413c8fa32ce140244a743b4f91261f9366aa4a8948ebb1dd4677941d3",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUjtoFVEQ3cQXiBFBiwQRRbKdGMP9f55YiSCChUgURHjO/SVLkt3n7uaZENMp
+RCt7K7ugINhEm2ChSIKNluKns9BSeXYG70ZTCN7mMjPnnDkzzP39e5LhsXtn3976
+qK49Hnjz1SQ2nDyxnJrCLaXt5XTW73x+zvmq7sxmLm2nCBOkkcY02OCkMg6kBaI8
+Il5x5QxV3EhOhFRUGq5J0JIpSrhCSkoQyDHCEaQTacjyaV92yyyvo2ygAhsMCjGC
+qbQa8ShlTFDAuEPSOhuFLZhInCmqhhHNGaj8ZFbEXAw6O/b+g9/1jYUVFmPKtORY
+E7DUe0mtN15hAOuZsoRrRBBmkijmiAYLgcciUQQ0l398L+zIUSSBIxUkDuA5dtoz
+JLxUIfZlDOsGWPkyh3kf0VDXhYU6XZlIY7KXWd/stRnkX8CkLeYjs1sWMSzmYmGm
+rrtVuyHWS90GedObzl+NjslyF7cYGT1fVlmRp20ckbbOGlEshBTRFcYTqV/sZqXv
+ZA2CS6FQfE0f34uS2vCgVWD4MrUqACXWY4YIYyAZNSxoTAQOmgoBwEBpprwx2Dkm
+pNQMO5o2Y93Ii7Sto0+YjppVNp1DvVD6dGVkdaGVjA0nR8fGWz/g6VprXG4NfTj1
+Yvfwhgabq0tG9h7YzcysDiTb5z73z/cHn72eOj66+P7ig6uP7ujN0eL5l2OXNvsH
+f64lvw6d2fh2e/vhkQtXPn1vVU+uzx1eX395uv9qZOvuu97G1L7f
+=UadG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/attocat
+
+==================================================================
